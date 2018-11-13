@@ -1,0 +1,15 @@
+C:\Users\Pharaoh\source\repos\Carty\Carty\bin\Debug\Carty.exe.config
+C:\Users\Pharaoh\source\repos\Carty\Carty\bin\Debug\Carty.exe
+C:\Users\Pharaoh\source\repos\Carty\Carty\bin\Debug\Carty.pdb
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.Form1.resources
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.Properties.Resources.resources
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.csproj.GenerateResource.cache
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.csproj.CoreCompileInputs.cache
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.exe
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.pdb
+C:\Users\Pharaoh\source\repos\Carty\Carty\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.csproj.CopyComplete
+C:\Users\Pharaoh\source\repos\Carty\Carty\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.csprojAssemblyReference.cache
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.ooooooo.resources
+C:\Users\Pharaoh\source\repos\Carty\Carty\obj\Debug\Carty.Signin.resources
